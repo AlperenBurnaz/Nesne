@@ -1,0 +1,2 @@
+Alperen, 90, Matematik
+Oguzhan, 75, Fizik
